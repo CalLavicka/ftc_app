@@ -5,6 +5,8 @@ import java.util.concurrent.*;
 import java.util.concurrent.atomic.*;
 import android.util.*;
 import static junit.framework.Assert.*;
+
+import com.qualcomm.modernrobotics.BuildConfig;
 import com.qualcomm.robotcore.hardware.*;
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import org.swerverobotics.library.exceptions.*;
